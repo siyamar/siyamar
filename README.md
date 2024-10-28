@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Abdur Rahman
 #### Web developer
-![Web developer](https://img.freepik.com/premium-photo/concept-image-web-design_476363-10271.jpg?ga=GA1.1.525799159.1727891831&semt=ais_hybrid)
-
 I'm Abdur Rahman from Uttara, Dhaka. I'm currently studying for my BSc in Computer Science and Engineering at World University of Bangladesh. As a MERN stack developer, I specialize in React, JavaScript, Node.js, Express.js, and MongoDB. I'm always eager to enhance my programming skills and explore new technologies. 
 
 Skills: NEXT JS / REACT / NODE / JS / HTML / CSS / REDUX
